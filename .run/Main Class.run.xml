@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main Class" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.backend.BlogApplication.BlogApplication" />
+    <module name="BlogApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
